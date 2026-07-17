@@ -258,6 +258,9 @@ In this exercise, you will use Copilot to create a topic from a description, cre
 
 ### Task 3.1 - Create an Excel file
 
+[!NOTE]
+> If you have issues creating this spreadsheet you can download a copy from this link [Download the file](../../Allfiles/Operations%20tasks.xlsx)
+
 1. In Copilot Studio, select the **App launcher** icon in the upper-left corner, then select **OneDrive**.
 
    ![Screenshot of App Launcher.](../media/copilot-studio-app-launcher.png)
